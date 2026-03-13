@@ -1,6 +1,6 @@
 # Aman Shah
 
-CS @ University of Toronto &nbsp;·&nbsp;
+CS @ University of Toronto
 
 <br/>
 
