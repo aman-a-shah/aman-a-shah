@@ -1,6 +1,6 @@
 # Aman Shah
 
-CS @ University of Toronto &nbsp;·&nbsp; 3.93 GPA
+CS @ University of Toronto &nbsp;·&nbsp;
 
 <br/>
 
