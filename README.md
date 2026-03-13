@@ -10,7 +10,7 @@ Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) — 6K sub
 
 <br/>
 
-`Python` `JavaScript` `C#` `React` `Unity` `AWS`
+`Python` `JavaScript` `TypeScript` `C#` `React` `AWS` `HTML` `CSS` `Unity` `Blender` `Davinci`
 
 <br/>
 
