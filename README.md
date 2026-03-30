@@ -1,7 +1,5 @@
 # Aman Shah
 
-CS @ University of Toronto
-
 <br/>
 
 Building [Flux](https://github.com/aman-a-shah/flux) — AI study tool for neurodivergent students  
