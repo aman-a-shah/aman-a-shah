@@ -20,7 +20,7 @@ Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) — 6K sub
 
 **Notable Projects:**  
 
-[Speech2Text](https://github.com/aman-a-shah/speech2text-ai) — local AI transcription for macOS   
 [Indie Sci-Fi FPS](https://www.youtube.com/@theunityguy_yt) - commercial indie game in development  
 [NexTrip](https://github.com/tiwoah/nextrip) — AI travel planner  
 [Flux](https://github.com/aman-a-shah/flux) — AI study tool for neurodivergent students  
+[Speech2Text](https://github.com/aman-a-shah/speech2text-ai) — local AI transcription for macOS   
