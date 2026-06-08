@@ -16,5 +16,3 @@ Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) with 6K su
 [linkedin](https://linkedin.com/in/aman-a-shah/) &nbsp;·&nbsp; 
 [youtube](https://www.youtube.com/@theunityguy_yt) &nbsp;·&nbsp; 
 [email](mailto:amanashishshah@gmail.com)
-
-<br/>
