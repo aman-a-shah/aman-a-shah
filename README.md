@@ -2,9 +2,9 @@
 
 <br/>
 
-Building [Flux](https://github.com/aman-a-shah/flux) — AI study tool for neurodivergent students  
 Making an [Indie Sci-Fi FPS](https://www.youtube.com/@theunityguy_yt) in Unity since 2021  
-Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) — 6K subscribers, 400K views  
+Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) with 6K subscribers, 400K views  
+4x hackathon winner (tryna get to 10 😂)
 
 <br/>
 
@@ -12,13 +12,9 @@ Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) — 6K sub
 
 <br/>
 
-[youtube](https://www.youtube.com/@theunityguy_yt) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/aman-a-shah/) &nbsp;·&nbsp; [email](mailto:amanashishshah@gmail.com)
+[portfolio](http://aman-shah.vercel.app) &nbsp;·&nbsp; 
+[linkedin](https://linkedin.com/in/aman-a-shah/) &nbsp;·&nbsp; 
+[youtube](https://www.youtube.com/@theunityguy_yt) &nbsp;·&nbsp; 
+[email](mailto:amanashishshah@gmail.com)
 
 <br/>
-
-**Notable Projects:**  
-
-[Indie Sci-Fi FPS](https://www.youtube.com/@theunityguy_yt) - commercial indie game in development  
-[NexTrip](https://github.com/tiwoah/nextrip) — AI travel planner  
-[Flux](https://github.com/aman-a-shah/flux) — AI study tool for neurodivergent students  
-[Speech2Text](https://github.com/aman-a-shah/speech2text-ai) — local AI transcription for macOS   
