@@ -4,7 +4,7 @@
 
 Making an [Indie Sci-Fi FPS](https://www.youtube.com/@theunityguy_yt) in Unity since 2021  
 Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) with 6K subscribers, 400K views  
-4x hackathon winner (tryna get to 10 😂)
+6x hackathon winner (tryna get to 10 😂)
 
 <br/>
 
