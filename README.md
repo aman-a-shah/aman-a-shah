@@ -16,10 +16,8 @@ Prev SWE @KnowIdea, MLE @Heartwise.ai
 
 <br/>
 
-<p>
-  <a href="http://aman-shah.vercel.app"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="32" height="32" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/aman-a-shah/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@theunityguy_yt"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" width="32" height="32" alt="YouTube"></a>
-  <a href="https://devpost.com/amanashishshah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/devpost.svg" width="32" height="32" alt="Devpost"></a>
-  <a href="mailto:amanashishshah@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="32" height="32" alt="Email"></a>
-</p>
+[portfolio](http://aman-shah.vercel.app) &nbsp;·&nbsp; 
+[linkedin](https://linkedin.com/in/aman-a-shah/) &nbsp;·&nbsp; 
+[youtube](https://www.youtube.com/@theunityguy_yt) &nbsp;·&nbsp; 
+[devpost](https://devpost.com/amanashishshah) &nbsp;·&nbsp; 
+[email](mailto:amanashishshah@gmail.com)
