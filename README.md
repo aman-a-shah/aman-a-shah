@@ -8,6 +8,8 @@ Computer Science & Statistics at the University of Toronto<br/>
 Making an [Indie Sci-Fi FPS](https://www.youtube.com/@theunityguy_yt) in Unity since 2021  <br/>
 Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) with 6K subscribers, 400K views  
 
+Prev SWE @KnowIdea, MLE @Heartwise.ai
+
 <br/>
 
 `Python` `JavaScript` `TypeScript` `C#` `CSS` `SQL` `C++`
