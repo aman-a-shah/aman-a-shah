@@ -16,8 +16,10 @@ Prev SWE @KnowIdea, MLE @Heartwise.ai
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white)](http://aman-shah.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-a-shah/)
-[![YouTube](https://img.shields.io/badge/-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theunityguy_yt)
-[![Devpost](https://img.shields.io/badge/-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/amanashishshah)
-[![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amanashishshah@gmail.com)
+<p>
+  <a href="http://aman-shah.vercel.app"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="32" height="32" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/aman-a-shah/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@theunityguy_yt"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" width="32" height="32" alt="YouTube"></a>
+  <a href="https://devpost.com/amanashishshah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/devpost.svg" width="32" height="32" alt="Devpost"></a>
+  <a href="mailto:amanashishshah@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="32" height="32" alt="Email"></a>
+</p>
