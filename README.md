@@ -16,8 +16,8 @@ Prev SWE @KnowIdea, MLE @Heartwise.ai
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://aman-shah.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-a-shah/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theunityguy_yt)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/amanashishshah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanashishshah@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white)](http://aman-shah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-a-shah/)
+[![YouTube](https://img.shields.io/badge/-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theunityguy_yt)
+[![Devpost](https://img.shields.io/badge/-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/amanashishshah)
+[![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amanashishshah@gmail.com)
