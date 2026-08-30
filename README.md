@@ -16,8 +16,8 @@ Prev SWE @KnowIdea, MLE @Heartwise.ai
 
 <br/>
 
-[portfolio](http://aman-shah.vercel.app) &nbsp;·&nbsp; 
-[linkedin](https://linkedin.com/in/aman-a-shah/) &nbsp;·&nbsp; 
-[youtube](https://www.youtube.com/@theunityguy_yt) &nbsp;·&nbsp; 
-[devpost](https://devpost.com/amanashishshah) &nbsp;·&nbsp; 
-[email](mailto:amanashishshah@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://aman-shah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-a-shah/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theunityguy_yt)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/amanashishshah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanashishshah@gmail.com)
