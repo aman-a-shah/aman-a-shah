@@ -8,11 +8,12 @@ Running a [Game Dev Channel](https://www.youtube.com/@theunityguy_yt) with 6K su
 
 <br/>
 
-`Python` `JavaScript` `TypeScript` `C#` `React` `AWS` `HTML` `CSS` `Unity` `Blender` `Davinci`
+`Python` `JavaScript` `TypeScript` `C#` `CSS` `SQL` `C++`
 
 <br/>
 
 [portfolio](http://aman-shah.vercel.app) &nbsp;·&nbsp; 
 [linkedin](https://linkedin.com/in/aman-a-shah/) &nbsp;·&nbsp; 
 [youtube](https://www.youtube.com/@theunityguy_yt) &nbsp;·&nbsp; 
+[devpost](https://devpost.com/amanashishshah) &nbsp;·&nbsp; 
 [email](mailto:amanashishshah@gmail.com)
